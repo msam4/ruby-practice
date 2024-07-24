@@ -14,8 +14,8 @@ puts ""
 
 puts "Body Mass Index (BMI) Calculator"
 print "Height (cm): "
-height = get.chomp.to_f
+height = gets.chomp.to_f
 print "Weight (kg): "
-weight = get.chomp.to_f
+weight = gets.chomp.to_f
 bmi = weight / (height/100)**2
-puts `BMI: #{bmi}`
+puts "BMI: #{bmi}"
