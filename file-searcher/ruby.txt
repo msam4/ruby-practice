@@ -1,0 +1,2 @@
+Ruby is the name of a programming language that was created in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan.
+Like other programming languages, such as Python, its structure (the way it works) is very similar to the English language.
